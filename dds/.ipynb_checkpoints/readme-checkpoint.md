@@ -9,3 +9,5 @@ The task is following:
 3. The task is not to build the best possible model. The model should be reasonable enough to be able to present conclusions / observations
 
 4. The form of presenting the task is a presentation containing up to 4 slides - a description of the issue, description of the approach used, summary of the model fit (analytical slide) and conclusions / recommendations (business slide).
+
+link to a deck: https://github.com/KirylBaradzin/tech_tasks/tree/master/dds
