@@ -10,4 +10,4 @@ The task is following:
 
 4. The form of presenting the task is a presentation containing up to 4 slides - a description of the issue, description of the approach used, summary of the model fit (analytical slide) and conclusions / recommendations (business slide).
 
-link to a deck: https://github.com/KirylBaradzin/tech_tasks/tree/master/dds
+link to a deck: https://docs.google.com/presentation/d/189s6nyEBQzA0D0m8eVyahk1kvGwRWQ0ZSJSNkhAdXmY/edit#slide=id.gcb9a0b074_1_0
