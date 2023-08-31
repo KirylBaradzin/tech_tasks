@@ -1,0 +1,1 @@
+This is basic example of pymc MMM. Code is not completed, modelling part only provided.
